@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Editor de Spyder
+Created on Thu Jul  9 14:37:57 2020
 
-Este es un archivo temporal.
+@author: luisa
 """
 
 
